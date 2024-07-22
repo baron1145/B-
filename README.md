@@ -9,11 +9,6 @@ Bienvenue chez BÄŘÔÑ ! Nous offrons des services de déblocage de téléphon
 - Ouverture de comptes électroniques
 
 ## Structure du Projet
-- `index.html` : La page principale de notre site web.
+- `index.html` : La page principale de notre site web. 
 - `styles.css` : Le fichier de styles CSS pour styliser le site.
 - `README.md` : Ce fichier, contenant des informations sur le projet.
-
-## Instructions d'Installation
-1. Clonez le repository sur votre machine locale.
-   ```bash
-   git clone <url-de-votre-repository>
